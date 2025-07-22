@@ -1,5 +1,5 @@
 ufi belajar repo awal
 - tidak berhenti belajar pengembangan web
 - terus meningkatkan semangat belajar teknologi
-++tambahan penjelasan repo
+++github go
 ++menambah kemampuan belajar
